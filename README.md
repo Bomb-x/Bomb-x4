@@ -26,4 +26,7 @@ $ python3 04.py -s www.terget.com
 
 Replace the terget.
 
+New tool coming soon 🥰
+
+
 
